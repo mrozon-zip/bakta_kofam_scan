@@ -1,0 +1,11 @@
+#Sequence Id	Type	Start	Stop	Strand	Locus Tag	Gene	Product	DbXrefs
+contig_1	cds	33702	33944	+	KJDGAD_00230		XRE family transcriptional regulator	RefSeq:WP_180385387.1, SO:0001217, UniParc:UPI0015D89C92, UniRef:UniRef100_UPI0015D89C92, UniRef:UniRef50_A0A2C9X4S3, UniRef:UniRef90_A0A349MVR3
+contig_5	cds	89107	89373	-	KJDGAD_01230		XRE family transcriptional regulator	RefSeq:WP_011666898.1, SO:0001217, UniParc:UPI0000E55AD0, UniRef:UniRef100_Q03U61, UniRef:UniRef50_A0A378HD81, UniRef:UniRef90_A0A378HD81
+contig_5	cds	940331	940546	+	KJDGAD_05605		XRE family transcriptional regulator	RefSeq:WP_087612739.1, SO:0001217, UniParc:UPI000B3E43EC, UniRef:UniRef100_UPI000B3E43EC, UniRef:UniRef50_A0A0R1W2T7, UniRef:UniRef90_A0A2Z3R8P1
+contig_5	cds	943903	944166	+	KJDGAD_05660		XRE family transcriptional regulator	RefSeq:WP_260156639.1, SO:0001217, UniParc:UPI0021A55E75, UniRef:UniRef100_UPI0021A55E75, UniRef:UniRef50_A0A1W6NL59, UniRef:UniRef90_A0A7Z6MMP4
+contig_5	cds	1383214	1383597	+	KJDGAD_08160		XRE family transcriptional regulator	RefSeq:WP_042254722.1, SO:0001217, UniParc:UPI0005A62FB3, UniRef:UniRef100_A0A7Z6MM24, UniRef:UniRef50_M5AGB8, UniRef:UniRef90_M5AGB8
+contig_5	cds	1477411	1477608	-	KJDGAD_08740		XRE family transcriptional regulator	RefSeq:WP_139972956.1, SO:0001217, UniParc:UPI0011236660, UniRef:UniRef100_UPI0011236660, UniRef:UniRef50_A0A0R1R695, UniRef:UniRef90_UPI0011236660
+contig_5	cds	1920506	1920742	-	KJDGAD_11030		XRE family transcriptional regulator	RefSeq:WP_011668419.1, SO:0001217, UniParc:UPI0000E56105, UniRef:UniRef100_M5AGG7, UniRef:UniRef50_A0A4Z0JFA2, UniRef:UniRef90_A0A0C1PQW6
+contig_5	cds	1949414	1949605	+	KJDGAD_11175		XRE family transcriptional regulator	RefSeq:WP_011668448.1, SO:0001217, UniParc:UPI0000E56122, UniRef:UniRef100_A0A0C1PR06, UniRef:UniRef50_A0A0C1PR06, UniRef:UniRef90_A0A0C1PR06
+contig_5	cds	2194609	2195250	+	KJDGAD_12415		XRE family transcriptional regulator	RefSeq:WP_011668860.1, SO:0001217, UniParc:UPI0000E5620F, UniRef:UniRef100_Q03NT5, UniRef:UniRef50_Q03NT5, UniRef:UniRef90_Q03NT5
+contig_5	cds	2233969	2234388	+	KJDGAD_12595		XRE family transcriptional regulator	RefSeq:WP_011668893.1, SO:0001217, UniParc:UPI0000E56230, UniRef:UniRef100_M5AFY7, UniRef:UniRef50_A0A4R5NRB8, UniRef:UniRef90_M5AFY7

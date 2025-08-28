@@ -1,0 +1,32 @@
+Gene	KO	Threshold	Score	E-value	KO Definition
+AMKNPJ_00248	K20265	196.43	30.6	1.4e-08	glutamate:GABA antiporter
+AMKNPJ_00398	K20265	196.43	8.3	0.077	glutamate:GABA antiporter
+AMKNPJ_00425	K01580	336.9	38.0	8.1e-11	glutamate decarboxylase [EC:4.1.1.15]
+AMKNPJ_00447	K20265	196.43	7.0	0.2	glutamate:GABA antiporter
+AMKNPJ_00493	K20265	196.43	67.1	1.3e-19	glutamate:GABA antiporter
+AMKNPJ_00503	K20265	196.43	112.4	2.5e-33	glutamate:GABA antiporter
+AMKNPJ_00551	K20265	196.43	88.7	3.6e-26	glutamate:GABA antiporter
+AMKNPJ_00700	K20265	196.43	192.9	1e-57	glutamate:GABA antiporter
+AMKNPJ_00835	K20265	196.43	19.5	3.2e-05	glutamate:GABA antiporter
+AMKNPJ_01027	K20265	196.43	16.9	0.0002	glutamate:GABA antiporter
+AMKNPJ_01088	K01580	336.9	26.9	1.9e-07	glutamate decarboxylase [EC:4.1.1.15]
+AMKNPJ_01238	K20265	196.43	119.3	2e-35	glutamate:GABA antiporter
+AMKNPJ_01306	K20265	196.43	126.1	1.7e-37	glutamate:GABA antiporter
+AMKNPJ_01364	K20265	196.43	101.5	4.9e-30	glutamate:GABA antiporter
+AMKNPJ_01405	K20265	196.43	103.6	1.1000000000000001e-30	glutamate:GABA antiporter
+AMKNPJ_01433	K20265	196.43	128.9	2.4e-38	glutamate:GABA antiporter
+AMKNPJ_01485	K20265	196.43	16.1	0.00035	glutamate:GABA antiporter
+AMKNPJ_01498	K01580	336.9	379.3	4.3e-114	glutamate decarboxylase [EC:4.1.1.15]
+AMKNPJ_01529	K20265	196.43	129.1	2.1e-38	glutamate:GABA antiporter
+AMKNPJ_01628	K20265	196.43	6.9	0.21	glutamate:GABA antiporter
+AMKNPJ_01674	K20265	196.43	101.1	6.5e-30	glutamate:GABA antiporter
+AMKNPJ_01764	K20265	196.43	9.3	0.039	glutamate:GABA antiporter
+AMKNPJ_01774	K20265	196.43	122.8	1.8e-36	glutamate:GABA antiporter
+AMKNPJ_01864	K20265	196.43	372.7	3.9e-112	glutamate:GABA antiporter
+AMKNPJ_01867	K20265	196.43	388.0	9.1e-117	glutamate:GABA antiporter
+AMKNPJ_01868	K01580	336.9	87.4	9.2e-26	glutamate decarboxylase [EC:4.1.1.15]
+AMKNPJ_02062	K20265	196.43	469.9	1.4e-141	glutamate:GABA antiporter
+AMKNPJ_02063	K01580	336.9	318.0	1.6e-95	glutamate decarboxylase [EC:4.1.1.15]
+AMKNPJ_02107	K20265	196.43	175.4	2.1e-52	glutamate:GABA antiporter
+AMKNPJ_02249	K20265	196.43	95.0	4.500000000000001e-28	glutamate:GABA antiporter
+AMKNPJ_02392	K20265	196.43	3.8	1.8	glutamate:GABA antiporter

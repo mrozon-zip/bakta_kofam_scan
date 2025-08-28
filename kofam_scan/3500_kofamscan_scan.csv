@@ -1,0 +1,31 @@
+Gene	KO	Threshold	Score	E-value	KO Definition
+CJPKHN_00146	K20265	196.43	19.5	3.6e-05	glutamate:GABA antiporter
+CJPKHN_00408	K20265	196.43	16.7	0.00025	glutamate:GABA antiporter
+CJPKHN_00468	K01580	336.9	26.9	2.1e-07	glutamate decarboxylase [EC:4.1.1.15]
+CJPKHN_00617	K20265	196.43	119.1	2.4e-35	glutamate:GABA antiporter
+CJPKHN_00694	K20265	196.43	127.8	5.8e-38	glutamate:GABA antiporter
+CJPKHN_00757	K20265	196.43	100.4	1.2e-29	glutamate:GABA antiporter
+CJPKHN_00800	K20265	196.43	103.6	1.2e-30	glutamate:GABA antiporter
+CJPKHN_00828	K20265	196.43	128.9	2.7e-38	glutamate:GABA antiporter
+CJPKHN_00882	K20265	196.43	16.1	0.00038	glutamate:GABA antiporter
+CJPKHN_00895	K01580	336.9	379.3	4.7e-114	glutamate decarboxylase [EC:4.1.1.15]
+CJPKHN_00926	K20265	196.43	129.1	2.3e-38	glutamate:GABA antiporter
+CJPKHN_01026	K20265	196.43	7.9	0.12	glutamate:GABA antiporter
+CJPKHN_01072	K20265	196.43	101.1	7.2e-30	glutamate:GABA antiporter
+CJPKHN_01160	K20265	196.43	8.5	0.076	glutamate:GABA antiporter
+CJPKHN_01169	K20265	196.43	125.7	2.6000000000000002e-37	glutamate:GABA antiporter
+CJPKHN_01258	K20265	196.43	373.2	3e-112	glutamate:GABA antiporter
+CJPKHN_01261	K20265	196.43	388.0	1e-116	glutamate:GABA antiporter
+CJPKHN_01262	K01580	336.9	87.4	1e-25	glutamate decarboxylase [EC:4.1.1.15]
+CJPKHN_01439	K20265	196.43	469.9	1.5999999999999998e-141	glutamate:GABA antiporter
+CJPKHN_01440	K01580	336.9	318.0	1.7999999999999997e-95	glutamate decarboxylase [EC:4.1.1.15]
+CJPKHN_01474	K20265	196.43	175.5	2.1e-52	glutamate:GABA antiporter
+CJPKHN_01611	K20265	196.43	98.8	3.6e-29	glutamate:GABA antiporter
+CJPKHN_01752	K20265	196.43	2.9	3.8	glutamate:GABA antiporter
+CJPKHN_02048	K20265	196.43	30.6	1.6e-08	glutamate:GABA antiporter
+CJPKHN_02210	K01580	336.9	38.0	9e-11	glutamate decarboxylase [EC:4.1.1.15]
+CJPKHN_02231	K20265	196.43	7.0	0.22	glutamate:GABA antiporter
+CJPKHN_02276	K20265	196.43	67.1	1.4e-19	glutamate:GABA antiporter
+CJPKHN_02286	K20265	196.43	112.4	2.8000000000000002e-33	glutamate:GABA antiporter
+CJPKHN_02418	K20265	196.43	88.8	3.9e-26	glutamate:GABA antiporter
+CJPKHN_02568	K20265	196.43	192.9	1.2e-57	glutamate:GABA antiporter
