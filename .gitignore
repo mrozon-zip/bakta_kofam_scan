@@ -1,2 +1,7 @@
 /bakta
+/genomes
+.venv/
+__pycache__/
+matrix.tsv
 query_table.tsv
+.env
